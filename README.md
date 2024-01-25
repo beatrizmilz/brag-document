@@ -75,7 +75,14 @@ Inspirado no [template feito pela Julia Evans](https://jvns.ca/blog/brag-documen
 
 ...
 
-## Livros lidos
+## Atividades de estudo
+
+
+### Cursos realizados
+
+...
+
+### Livros lidos
 
 ...
 
