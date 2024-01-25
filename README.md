@@ -71,9 +71,6 @@ Inspirado no [template feito pela Julia Evans](https://jvns.ca/blog/brag-documen
 
 ...
 
-## O que eu aprendi?
-
-...
 
 ## Atividades de estudo
 
@@ -86,3 +83,7 @@ Inspirado no [template feito pela Julia Evans](https://jvns.ca/blog/brag-documen
 
 ...
 
+
+## O que eu aprendi?
+
+...
