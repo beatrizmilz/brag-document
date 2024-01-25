@@ -27,7 +27,7 @@ Inspirado no [template feito pela Julia Evans](https://jvns.ca/blog/brag-documen
 
 ### Palestras oferecidas
 
-- [Janeiro/2024] - [Conhecendo o GitHub Projects](https://beamilz.com/talks/pt/2024-01-github-projects/)
+- [20/01/2024] - [Conhecendo o GitHub Projects](https://beamilz.com/talks/pt/2024-01-github-projects/)
 
 
 ### Blog posts/textos escritos
