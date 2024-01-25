@@ -10,6 +10,8 @@ Inspirado no [template feito pela Julia Evans].
 
 - [ ] Obter a certificação "GitHub Actions"
 
+- [ ] Finalizar a preparação do conteúdo "Eu, palestrando?"
+
 ## Metas para o ano seguinte (2025)
 
 👀 muito cedo para isso, ainda estou tentando entender as metas para este ano!
