@@ -10,7 +10,8 @@ Inspirado no [template feito pela Julia Evans].
 
 - [ ] Obter a certificação "GitHub Actions"
 
-- [ ] Finalizar a preparação do conteúdo "Eu, palestrando?"
+- [ ] Finalizar a preparação do conteúdo "Eu, palestrando?" (palestra com dicas para pessoas que querem palestrar sobre tecnologia)
+
 
 ## Metas para o ano seguinte (2025)
 
