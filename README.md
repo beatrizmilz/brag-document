@@ -17,7 +17,7 @@ Inspirado no [template feito pela Julia Evans](https://jvns.ca/blog/brag-documen
 
 👀 muito cedo para isso, ainda estou tentando entender as metas para este ano!
 
-## Atividades de ensino/compartilhamento
+## Atividades de ensino/compartilhamento/comunidade
 
 
 ### Cursos ministrados
@@ -34,6 +34,9 @@ Inspirado no [template feito pela Julia Evans](https://jvns.ca/blog/brag-documen
 
 ...
 
+### Organização de eventos/encontros/grupos de estudos
+
+- [06/01/2024] - Co-organização da reunião de planejamento de 2024 da R-Ladies São Paulo
 
 ### Conteúdo técnico em redes sociais 
 
