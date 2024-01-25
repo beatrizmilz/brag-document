@@ -1,6 +1,6 @@
 # Beatriz Milz - 2024 - Brag document
 
-Inspirado no [template feito pela Julia Evans].
+Inspirado no [template feito pela Julia Evans](https://jvns.ca/blog/brag-documents/#template).
 
 ## Metas para o ano
 
