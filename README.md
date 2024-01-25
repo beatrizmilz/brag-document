@@ -42,15 +42,15 @@ Inspirado no [template feito pela Julia Evans](https://jvns.ca/blog/brag-documen
 
 #### R
 
-- [O que é o R?](https://www.instagram.com/p/C2DDu-MLZ4W/?img_index=1)
-- [O que é o RStudio?](https://www.instagram.com/p/C2IJPYqLjIe/?img_index=1)
-- [Versões gratuitas do RStudio IDE](https://www.instagram.com/p/C2Xh63gLWIM/?img_index=1)
-- [O que é o tidyverse?](https://www.instagram.com/p/C2fQI7FrlC2/?img_index=1)
+- [13/01/2024] - [O que é o R?](https://www.instagram.com/p/C2DDu-MLZ4W/?img_index=1)
+- [15/01/2024] - [O que é o RStudio?](https://www.instagram.com/p/C2IJPYqLjIe/?img_index=1)
+- [21/01/2024] - [Versões gratuitas do RStudio IDE](https://www.instagram.com/p/C2Xh63gLWIM/?img_index=1)
+- [24/01/2024] - [O que é o tidyverse?](https://www.instagram.com/p/C2fQI7FrlC2/?img_index=1)
 
 #### Dados abertos
 
-- [O que são dados abertos?](https://www.instagram.com/p/C1o5RR3rsww/?img_index=1)
-- [O que é o dia dos dados abertos?](https://www.instagram.com/p/C197Ln9LEes/?img_index=1)
+- [03/01/2024] - [O que são dados abertos?](https://www.instagram.com/p/C1o5RR3rsww/?img_index=1)
+- [11/01/2024] - [O que é o dia dos dados abertos?](https://www.instagram.com/p/C197Ln9LEes/?img_index=1)
 
 ## Projetos
 
