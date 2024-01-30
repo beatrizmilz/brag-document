@@ -19,7 +19,6 @@ Inspirado no [template feito pela Julia Evans](https://jvns.ca/blog/brag-documen
 
 ## Atividades de ensino/compartilhamento/comunidade
 
-
 ### Cursos ministrados
 
 - [Janeiro/2024] - [Relatórios reprodutíveis com R - Curso de Verão IME/USP](https://beatrizmilz.github.io/2024-curso-de-verao-ime-usp-relatorios/)
@@ -72,8 +71,7 @@ Inspirado no [template feito pela Julia Evans](https://jvns.ca/blog/brag-documen
 ...
 
 
-## Atividades de estudo
-
+## Atividades de aprendizagem (*life long learning*)
 
 ### Cursos realizados
 
@@ -82,6 +80,16 @@ Inspirado no [template feito pela Julia Evans](https://jvns.ca/blog/brag-documen
 ### Livros lidos
 
 ...
+
+### Experiências
+
+...
+
+### Redes
+
+- [23/01/2024] Fui contemplada com uma sessão de mentoria 1:1 com a [Gabriela de Queiroz](https://www.linkedin.com/in/gabrieladequeiroz/), fundadora da R-Ladies. Foi incrível! 💜
+
+
 
 
 ## O que eu aprendi?
