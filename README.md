@@ -16,9 +16,9 @@ Inspirado no [template feito pela Julia Evans](https://jvns.ca/blog/brag-documen
 
 - [ ] Conseguir uma vaga para dar aulas no [omitido] 👀
 
-- [ ] Melhorar minhas habilidades em Python para Ciência de Dados (no meu dia-a-dia acabo usando mais R!)
+- [ ] Melhorar minhas habilidades em Python para Ciência de Dados (no meu dia-a-dia acabo usando mais R!) [Isso não tá bom: não é possível medir do jeito que está. Pensar melhor nisso!]
 
-- [ ] Melhorar minhas habilidades em SQL (eu uso banco de dados, mas o dbplyr me ajuda bastante!)
+- [ ] Melhorar minhas habilidades em SQL (eu uso banco de dados, mas o dbplyr me ajuda bastante!)  [Isso não tá bom: não é possível medir do jeito que está. Pensar melhor nisso!]
 
 
 ## Metas para o ano seguinte (2025)
