@@ -14,7 +14,11 @@ Inspirado no [template feito pela Julia Evans](https://jvns.ca/blog/brag-documen
 
 - [ ] Finalizar a preparação do conteúdo "Eu, palestrando?" (palestra com dicas para pessoas que querem palestrar sobre tecnologia)
 
-- [ ] Conseguir uma vaga para dar aulas no [omitido] 👀 
+- [ ] Conseguir uma vaga para dar aulas no [omitido] 👀
+
+- [ ] Melhorar minhas habilidades em Python para Ciência de Dados (no meu dia-a-dia acabo usando mais R!)
+
+- [ ] Melhorar minhas habilidades em SQL (eu uso banco de dados, mas o dbplyr me ajuda bastante!)
 
 
 ## Metas para o ano seguinte (2025)
@@ -64,20 +68,14 @@ Inspirado no [template feito pela Julia Evans](https://jvns.ca/blog/brag-documen
 
 - Lembrar de escrever para cada projeto: quais foram minhas contribuições? Qual é o impacto do projeto?
 
-## Colaboração e mentoria
+### Vídeos
 
 ...
 
-
-## Design e documentação
-
-...
-
-## *Company building*
-
-- Pensar na tradução para esse termo!
+### Colaboração e mentoria
 
 ...
+
 
 
 ## Atividades de aprendizagem (*life long learning*)
@@ -106,6 +104,6 @@ Os livros lidos estão com [x]; os livros começados (em andamento) estão apena
 
 
 
-## O que eu aprendi?
+## O que eu aprendi nesse ano?
 
 ...
