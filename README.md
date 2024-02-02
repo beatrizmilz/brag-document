@@ -4,13 +4,17 @@ Inspirado no [template feito pela Julia Evans](https://jvns.ca/blog/brag-documen
 
 ## Metas para o ano
 
-- [ ] Concluir o doutorado
+- [x] Depositar o doutorado
+
+- [ ] Defender o doutorado
 
 - [ ] Obter a certificação "GitHub Foundations"
 
 - [ ] Obter a certificação "GitHub Actions"
 
 - [ ] Finalizar a preparação do conteúdo "Eu, palestrando?" (palestra com dicas para pessoas que querem palestrar sobre tecnologia)
+
+- [ ] Conseguir uma vaga para dar aulas no [omitido] 👀 
 
 
 ## Metas para o ano seguinte (2025)
@@ -77,9 +81,14 @@ Inspirado no [template feito pela Julia Evans](https://jvns.ca/blog/brag-documen
 
 ...
 
-### Livros lidos
+### Livros 
 
-...
+Os livros lidos estão com [x]; os livros começados (em andamento) estão apenas listados.
+
+- [x] [Janeiro/2024] Lifelong learners – o poder do aprendizado contínuo - Conrado Schlochauer
+- [ ] [Janeiro/2024 - ??] O andar do bêbado: Como o acaso determina nossas vidas - Leonard Mlodinow 
+- [ ] [Janeiro/2024 - ??] Como se faz uma tese -  Umberto Eco
+
 
 ### Experiências
 
