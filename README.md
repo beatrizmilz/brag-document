@@ -34,7 +34,7 @@ Inspirado no [template feito pela Julia Evans](https://jvns.ca/blog/brag-documen
 
 ### Cursos ministrados
 
-- [Janeiro/2024] - [Relatórios reprodutíveis com R - Curso de Verão IME/USP](https://beatrizmilz.github.io/2024-curso-de-verao-ime-usp-relatorios/)
+- [Janeiro-Fevereiro/2024] - [Relatórios reprodutíveis com R - Curso de Verão IME/USP](https://beatrizmilz.github.io/2024-curso-de-verao-ime-usp-relatorios/)
 
 
 ### Palestras oferecidas
@@ -80,6 +80,10 @@ Inspirado no [template feito pela Julia Evans](https://jvns.ca/blog/brag-documen
 
 ## Atividades de aprendizagem (*life long learning*)
 
+### Eventos que participei
+
+- [x] [Fevereiro/2024] [Environmental Data Science Summit](https://eds-summit.github.io/) - UCSB & NCEAS, Santa Barbara - CA, EUA
+
 ### Cursos realizados
 
 ...
@@ -91,6 +95,7 @@ Os livros lidos estão com [x]; os livros começados (em andamento) estão apena
 - [x] [Janeiro/2024] Lifelong learners – o poder do aprendizado contínuo - Conrado Schlochauer
 - [ ] [Janeiro/2024 - ??] O andar do bêbado: Como o acaso determina nossas vidas - Leonard Mlodinow 
 - [ ] [Janeiro/2024 - ??] Como se faz uma tese -  Umberto Eco
+- [ ] [Fevereiro/2024 - ??] Think Again: The Power of Knowing What You Don't Know -  Adam Grant 
 
 
 ### Experiências
