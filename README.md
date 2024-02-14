@@ -45,6 +45,7 @@ Inspirado no [template feito pela Julia Evans](https://jvns.ca/blog/brag-documen
 ### Blog posts/textos escritos
 
 - [13/02/2024] - [🇧🇷 Por que era importante para mim participar de um evento sobre Ciência de Dados Ambientais?](https://beamilz.com/posts/2024-02-13-eds-summit-pt-1/pt/)
+- [13/02/2024] - [🇺🇸 Why was so important for me to participate in an event about Environmental Data Science?](https://beamilz.com/posts/2024-02-13-eds-summit-pt-1/en/)
 
 ### Organização de eventos/encontros/grupos de estudos
 
