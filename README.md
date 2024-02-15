@@ -94,8 +94,8 @@ Inspirado no [template feito pela Julia Evans](https://jvns.ca/blog/brag-documen
 Os livros lidos estão com [x]; os livros começados (em andamento) estão apenas listados.
 
 - [x] [Janeiro/2024] Lifelong learners – o poder do aprendizado contínuo - Conrado Schlochauer
-- [ ] [Janeiro/2024 - ??] O andar do bêbado: Como o acaso determina nossas vidas - Leonard Mlodinow 
-- [ ] [Janeiro/2024 - ??] Como se faz uma tese -  Umberto Eco
+- [ ] [Janeiro/2024 - Fevereiro/2024] O andar do bêbado: Como o acaso determina nossas vidas - Leonard Mlodinow 
+- [x] [Janeiro/2024 - ??] Como se faz uma tese -  Umberto Eco
 - [ ] [Fevereiro/2024 - ??] Think Again: The Power of Knowing What You Don't Know -  Adam Grant 
 
 
