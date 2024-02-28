@@ -8,7 +8,7 @@ Inspirado no [template feito pela Julia Evans](https://jvns.ca/blog/brag-documen
 
 - [ ] Defender o doutorado
 
-- [ ] Obter a certificação "GitHub Foundations"
+- [x] Obter a certificação "GitHub Foundations"
 
 - [ ] Obter a certificação "GitHub Actions"
 
