@@ -14,9 +14,11 @@ Inspirado no [template feito pela Julia Evans](https://jvns.ca/blog/brag-documen
 
 - [ ] Finalizar a preparação do conteúdo "Eu, palestrando?" (palestra com dicas para pessoas que querem palestrar sobre tecnologia)
 
-- [ ] Melhorar minhas habilidades em Python para Ciência de Dados (no meu dia-a-dia acabo usando mais R!) [Isso não tá bom: não é possível medir do jeito que está. Pensar melhor nisso!]
+- [ ] Melhorar minhas habilidades em:
+    - [ ] Python para Ciência de Dados (no meu dia-a-dia acabo usando mais R!) [Isso não tá bom: não é possível medir do jeito que está. Pensar melhor nisso!]
+    - [ ] SQL (eu uso banco de dados, mas o dbplyr me ajuda bastante!)  [Isso não tá bom: não é possível medir do jeito que está. Pensar melhor nisso!]
+    - [ ] Estatística inferencial [Isso não tá bom: não é possível medir do jeito que está. Pensar melhor nisso!]
 
-- [ ] Melhorar minhas habilidades em SQL (eu uso banco de dados, mas o dbplyr me ajuda bastante!)  [Isso não tá bom: não é possível medir do jeito que está. Pensar melhor nisso!]
 
 
 ## Metas para o ano seguinte (2025)
@@ -100,7 +102,7 @@ Inspirado no [template feito pela Julia Evans](https://jvns.ca/blog/brag-documen
 
 ### Certificações
 
-- [x] [Certificação "GitHub Foundations"](https://www.credly.com/earner/earned/badge/5a261c3e-265c-41f2-9b22-6bbe3370b105)
+- [x] [Fevereiro/2024] [Certificação "GitHub Foundations"](https://www.credly.com/earner/earned/badge/5a261c3e-265c-41f2-9b22-6bbe3370b105)
 
 ### Livros 
 
@@ -109,6 +111,7 @@ Os livros lidos estão com [x]; os livros começados (em andamento) estão apena
 - [x] [Janeiro/2024] Lifelong learners – o poder do aprendizado contínuo - Conrado Schlochauer
 - [x] [Janeiro/2024 - Fevereiro/2024] O andar do bêbado: Como o acaso determina nossas vidas - Leonard Mlodinow 
 - [x] [Janeiro/2024 - Fevereiro/2024] Como se faz uma tese -  Umberto Eco
+- [ ] [Fevereiro/2024 - ??] Estatística: O que é, para que serve, como funciona
 - [ ] [Fevereiro/2024 - ??] Think Again: The Power of Knowing What You Don't Know -  Adam Grant
 - [ ] [Fevereiro/2024 - ??] Análise de conteúdo - Laurence Bardin
 
