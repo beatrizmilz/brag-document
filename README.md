@@ -84,6 +84,10 @@ Inspirado no [template feito pela Julia Evans](https://jvns.ca/blog/brag-documen
 ...
 --->
 
+### Outros
+
+- [Fevereiro/2024] [GitHub Star - 2024](https://www.instagram.com/p/C3-IAsIL8TT/)
+
 ## Atividades de aprendizagem (*life long learning*)
 
 ### Eventos que participei
@@ -93,6 +97,10 @@ Inspirado no [template feito pela Julia Evans](https://jvns.ca/blog/brag-documen
 ### Cursos realizados
 
 - [ ] [Janeiro-Fevereiro/2024] [DEVINTE - Design de experimentos](https://www.devinte.com.br/product/design-de-experimentos)
+
+### Certificações
+
+- [x] [Certificação "GitHub Foundations"](https://www.credly.com/earner/earned/badge/5a261c3e-265c-41f2-9b22-6bbe3370b105)
 
 ### Livros 
 
@@ -113,6 +121,8 @@ Os livros lidos estão com [x]; os livros começados (em andamento) estão apena
 ### Redes/Conexões
 
 - [23/01/2024] Fui contemplada com uma sessão de mentoria 1:1 com a [Gabriela de Queiroz](https://www.linkedin.com/in/gabrieladequeiroz/), fundadora da R-Ladies. Foi incrível! 💜
+
+
 
 
 ## O que eu aprendi nesse ano?
