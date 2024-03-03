@@ -14,8 +14,6 @@ Inspirado no [template feito pela Julia Evans](https://jvns.ca/blog/brag-documen
 
 - [ ] Finalizar a preparação do conteúdo "Eu, palestrando?" (palestra com dicas para pessoas que querem palestrar sobre tecnologia)
 
-- [ ] Conseguir uma vaga para dar aulas no [omitido] 👀
-
 - [ ] Melhorar minhas habilidades em Python para Ciência de Dados (no meu dia-a-dia acabo usando mais R!) [Isso não tá bom: não é possível medir do jeito que está. Pensar melhor nisso!]
 
 - [ ] Melhorar minhas habilidades em SQL (eu uso banco de dados, mas o dbplyr me ajuda bastante!)  [Isso não tá bom: não é possível medir do jeito que está. Pensar melhor nisso!]
@@ -35,11 +33,13 @@ Inspirado no [template feito pela Julia Evans](https://jvns.ca/blog/brag-documen
 ### Cursos ministrados
 
 - [Janeiro-Fevereiro/2024] - [Relatórios reprodutíveis com R - Curso de Verão IME/USP](https://beatrizmilz.github.io/2024-curso-de-verao-ime-usp-relatorios/)
+- [Janeiro-Fevereiro/2024] - [R para Ciência de Dados I - Curso-R](https://curso-r.github.io/202401-r4ds-1/)
 
 
 ### Palestras oferecidas
 
-- [20/01/2024] - [Conhecendo o GitHub Projects](https://beamilz.com/talks/pt/2024-01-github-projects/)
+- [20/01/2024] - [Conhecendo o GitHub Projects](https://beamilz.com/talks/pt/2024-01-github-projects/) - GitHub Community São Paulo
+- [02/03/2024] - [O que são dados abertos? O que é o Open Data Day?](https://r-ladies-sao-paulo.github.io/2024-03-open-data-day/slide-open-data-day.html#/title-slide) - [R-Ladies São Paulo](https://r-ladies-sao-paulo.github.io/2024-03-open-data-day/cronograma.html)
 
 
 ### Blog posts/textos escritos
@@ -50,6 +50,10 @@ Inspirado no [template feito pela Julia Evans](https://jvns.ca/blog/brag-documen
 ### Organização de eventos/encontros/grupos de estudos
 
 - [06/01/2024] - Co-organização da reunião de planejamento de 2024 da R-Ladies São Paulo
+- [20/02/2024] - Co-organização do evento online da R-Ladies São Paulo: [Ornitorrinco vs. Unicórnio: qual a diferença entre generalistas e especialistas em Data & Analytics](https://www.youtube.com/watch?v=8QD7PXg5YYY)
+- [27/02/2024] - Co-organização do evento online da R-Ladies São Paulo: [Encontro 1: Boas-vindas! Clube do Livro R for Data Science (2ed)](https://www.youtube.com/watch?v=TaAog3K0toA)
+- [02/03/2024] - Co-organização do evento presencial da R-Ladies São Paulo: [Análise de dados abertos com R - 2024 - Um evento Open Data Day](https://r-ladies-sao-paulo.github.io/2024-03-open-data-day/cronograma.html)
+
 
 ### Conteúdo técnico em redes sociais 
 
@@ -65,9 +69,11 @@ Inspirado no [template feito pela Julia Evans](https://jvns.ca/blog/brag-documen
 - [03/01/2024] - [O que são dados abertos?](https://www.instagram.com/p/C1o5RR3rsww/?img_index=1)
 - [11/01/2024] - [O que é o dia dos dados abertos?](https://www.instagram.com/p/C197Ln9LEes/?img_index=1)
 
-## Projetos
+<!---
+### Projetos
 
 - Lembrar de escrever para cada projeto: quais foram minhas contribuições? Qual é o impacto do projeto?
+
 
 ### Vídeos
 
@@ -76,8 +82,7 @@ Inspirado no [template feito pela Julia Evans](https://jvns.ca/blog/brag-documen
 ### Colaboração e mentoria
 
 ...
-
-
+--->
 
 ## Atividades de aprendizagem (*life long learning*)
 
@@ -87,27 +92,27 @@ Inspirado no [template feito pela Julia Evans](https://jvns.ca/blog/brag-documen
 
 ### Cursos realizados
 
-...
+- [ ] [Janeiro-Fevereiro/2024] [DEVINTE - Design de experimentos](https://www.devinte.com.br/product/design-de-experimentos)
 
 ### Livros 
 
 Os livros lidos estão com [x]; os livros começados (em andamento) estão apenas listados.
 
 - [x] [Janeiro/2024] Lifelong learners – o poder do aprendizado contínuo - Conrado Schlochauer
-- [ ] [Janeiro/2024 - Fevereiro/2024] O andar do bêbado: Como o acaso determina nossas vidas - Leonard Mlodinow 
-- [x] [Janeiro/2024 - ??] Como se faz uma tese -  Umberto Eco
-- [ ] [Fevereiro/2024 - ??] Think Again: The Power of Knowing What You Don't Know -  Adam Grant 
+- [x] [Janeiro/2024 - Fevereiro/2024] O andar do bêbado: Como o acaso determina nossas vidas - Leonard Mlodinow 
+- [x] [Janeiro/2024 - Fevereiro/2024] Como se faz uma tese -  Umberto Eco
+- [ ] [Fevereiro/2024 - ??] Think Again: The Power of Knowing What You Don't Know -  Adam Grant
+- [ ] [Fevereiro/2024 - ??] Análise de conteúdo - Laurence Bardin
 
-
+<!---
 ### Experiências
 
 ...
+--->
 
-### Redes
+### Redes/Conexões
 
 - [23/01/2024] Fui contemplada com uma sessão de mentoria 1:1 com a [Gabriela de Queiroz](https://www.linkedin.com/in/gabrieladequeiroz/), fundadora da R-Ladies. Foi incrível! 💜
-
-
 
 
 ## O que eu aprendi nesse ano?
