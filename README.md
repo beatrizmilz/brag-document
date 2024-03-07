@@ -111,9 +111,10 @@ Os livros lidos estão com [x]; os livros começados (em andamento) estão apena
 - [x] [Janeiro/2024] Lifelong learners – o poder do aprendizado contínuo - Conrado Schlochauer
 - [x] [Janeiro/2024 - Fevereiro/2024] O andar do bêbado: Como o acaso determina nossas vidas - Leonard Mlodinow 
 - [x] [Janeiro/2024 - Fevereiro/2024] Como se faz uma tese -  Umberto Eco
-- [ ] [Fevereiro/2024 - ??] Estatística: O que é, para que serve, como funciona
-- [ ] [Fevereiro/2024 - ??] Think Again: The Power of Knowing What You Don't Know -  Adam Grant
-- [ ] [Fevereiro/2024 - ??] Análise de conteúdo - Laurence Bardin
+- [ ] [Fevereiro/2024 - ??] Estatística: O que é, para que serve, como funciona [Lendo no Kindle]
+- [ ] [Fevereiro/2024 - ??] Think Again: The Power of Knowing What You Don't Know -  Adam Grant [Em papel - em pausa]
+- [ ] [Fevereiro/2024 - ??] Análise de conteúdo - Laurence Bardin [Em papel - em pausa]
+- [ ] [Março/2024 - ??] Essencialismo - Greg McKeown [Lendo em papel]
 
 <!---
 ### Experiências
