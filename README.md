@@ -10,7 +10,7 @@ Inspirado no [template feito pela Julia Evans](https://jvns.ca/blog/brag-documen
 
 - [x] Obter a certificação "GitHub Foundations"
 
-- [ ] Obter a certificação "GitHub Actions"
+- [x] Obter a certificação "GitHub Actions"
 
 - [ ] Finalizar a preparação do conteúdo "Eu, palestrando?" (palestra com dicas para pessoas que querem palestrar sobre tecnologia)
 
@@ -103,6 +103,8 @@ Inspirado no [template feito pela Julia Evans](https://jvns.ca/blog/brag-documen
 ### Certificações
 
 - [x] [Fevereiro/2024] [Certificação "GitHub Foundations"](https://www.credly.com/earner/earned/badge/5a261c3e-265c-41f2-9b22-6bbe3370b105)
+- [x] [Março/2024] [Certificação "GitHub Actions"](https://www.credly.com/badges/1fa1705c-e86b-4734-879c-0f96de38be73)
+
 
 ### Livros 
 
