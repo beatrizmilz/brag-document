@@ -6,7 +6,7 @@ Inspirado no [template feito pela Julia Evans](https://jvns.ca/blog/brag-documen
 
 - [x] Depositar o doutorado
 
-- [ ] Defender o doutorado
+- [x] Defender o doutorado
 
 - [x] Obter a certificação "GitHub Foundations"
 
@@ -117,6 +117,7 @@ Os livros lidos estão com [x]; os livros começados (em andamento) estão apena
 - [ ] [Fevereiro/2024 - ??] Think Again: The Power of Knowing What You Don't Know -  Adam Grant [Em papel - em pausa]
 - [ ] [Fevereiro/2024 - ??] Análise de conteúdo - Laurence Bardin [Em papel - em pausa]
 - [ ] [Março/2024 - ??] Essencialismo - Greg McKeown [Lendo em papel]
+- [ ] [Março/2024 - ??] Duna 
 
 <!---
 ### Experiências
