@@ -116,8 +116,9 @@ Os livros lidos estão com [x]; os livros começados (em andamento) estão apena
 - [ ] [Fevereiro/2024 - ??] Estatística: O que é, para que serve, como funciona [Lendo no Kindle]
 - [ ] [Fevereiro/2024 - ??] Think Again: The Power of Knowing What You Don't Know -  Adam Grant [Em papel - em pausa]
 - [ ] [Fevereiro/2024 - ??] Análise de conteúdo - Laurence Bardin [Em papel - em pausa]
-- [ ] [Março/2024 - ??] Essencialismo - Greg McKeown [Lendo em papel]
-- [ ] [Março/2024 - ??] Duna 
+- [x] [Março/2024 - ??] Essencialismo - Greg McKeown [Lendo em papel]
+- [ ] [Março/2024 - ??] Duna - Frank Herbert
+- [ ] [Março/2024 - ??] A vida não é útil - Ailton Krenak
 
 <!---
 ### Experiências
