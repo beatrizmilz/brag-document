@@ -113,12 +113,15 @@ Os livros lidos estão com [x]; os livros começados (em andamento) estão apena
 - [x] [Janeiro/2024] Lifelong learners – o poder do aprendizado contínuo - Conrado Schlochauer
 - [x] [Janeiro/2024 - Fevereiro/2024] O andar do bêbado: Como o acaso determina nossas vidas - Leonard Mlodinow 
 - [x] [Janeiro/2024 - Fevereiro/2024] Como se faz uma tese -  Umberto Eco
-- [ ] [Fevereiro/2024 - ??] Estatística: O que é, para que serve, como funciona [Lendo no Kindle]
-- [ ] [Fevereiro/2024 - ??] Think Again: The Power of Knowing What You Don't Know -  Adam Grant [Em papel - em pausa]
+- [x] [Março/2024] Essencialismo - Greg McKeown [Lendo em papel]
+- [x] [Março/2024] Duna (Crônicas de Duna Livro 1)  - Frank Herbert
+- [x] [Março/2024] A vida não é útil - Ailton Krenak
+
+
+- [ ] [Fevereiro/2024 - ??] Estatística: O que é, para que serve, como funciona [Lendo no Kindle - Em pausa]
+- [ ] [Fevereiro/2024 - ??] Think Again: The Power of Knowing What You Don't Know -  Adam Grant [Em papel]
 - [ ] [Fevereiro/2024 - ??] Análise de conteúdo - Laurence Bardin [Em papel - em pausa]
-- [x] [Março/2024 - ??] Essencialismo - Greg McKeown [Lendo em papel]
-- [ ] [Março/2024 - ??] Duna - Frank Herbert
-- [ ] [Março/2024 - ??] A vida não é útil - Ailton Krenak
+- [ ] [Abril/2024 - ??] Messias de Duna (Crônicas de Duna Livro 2) - Frank Herbert
 
 <!---
 ### Experiências
