@@ -4,9 +4,10 @@ Inspirado no [template feito pela Julia Evans](https://jvns.ca/blog/brag-documen
 
 ## Metas para o ano
 
-- [x] Depositar o doutorado
-
-- [x] Defender o doutorado
+- [ ] Concluir o doutorado
+  - [x] Depositar o doutorado
+  - [x] Defender o doutorado
+  - [ ] Entregar a versão corrigida da tese
 
 - [x] Obter a certificação "GitHub Foundations"
 
