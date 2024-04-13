@@ -26,11 +26,6 @@ Inspirado no [template feito pela Julia Evans](https://jvns.ca/blog/brag-documen
 
 👀 muito cedo para isso, ainda estou tentando entender as metas para este ano!
 
-
-## Posts de retrospectiva mensal
-
-- [Janeiro/2024](https://www.instagram.com/p/C2yVApMNNN6/)
-
 ## Atividades de ensino/compartilhamento/comunidade
 
 ### Cursos ministrados
