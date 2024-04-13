@@ -102,7 +102,7 @@ Inspirado no [template feito pela Julia Evans](https://jvns.ca/blog/brag-documen
 - [x] [Março/2024] [Certificação "GitHub Actions"](https://www.credly.com/badges/1fa1705c-e86b-4734-879c-0f96de38be73)
 
 
-### Livros 
+### Leitura - Livros 
 
 Os livros lidos estão com [x]; os livros começados (em andamento) estão apenas listados.
 
