@@ -86,7 +86,7 @@ Inspirado no [template feito pela Julia Evans](https://jvns.ca/blog/brag-documen
 
 - [Fevereiro/2024] [GitHub Star - 2024](https://www.instagram.com/p/C3-IAsIL8TT/)
 
-## Atividades de aprendizagem (*life long learning*)
+## Atividades de aprendizagem
 
 ### Eventos que participei
 
