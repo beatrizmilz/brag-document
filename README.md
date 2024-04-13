@@ -117,12 +117,12 @@ Os livros lidos estão com [x]; os livros começados (em andamento) estão apena
 - [x] [Março/2024] Essencialismo - Greg McKeown [Lendo em papel]
 - [x] [Março/2024] Duna (Crônicas de Duna Livro 1)  - Frank Herbert
 - [x] [Março/2024] A vida não é útil - Ailton Krenak
-
+- [x] [Abril/2024] Messias de Duna (Crônicas de Duna Livro 2) - Frank Herbert
 
 - [ ] [Fevereiro/2024 - ??] Estatística: O que é, para que serve, como funciona [Lendo no Kindle - Em pausa]
 - [ ] [Fevereiro/2024 - ??] Think Again: The Power of Knowing What You Don't Know -  Adam Grant [Em papel]
 - [ ] [Fevereiro/2024 - ??] Análise de conteúdo - Laurence Bardin [Em papel - em pausa]
-- [ ] [Abril/2024 - ??] Messias de Duna (Crônicas de Duna Livro 2) - Frank Herbert
+- [ ] [Abril/2024 - ??] Filhos de Duna (Crônicas de Duna Livro 3) - Frank Herbert
 
 <!---
 ### Experiências
