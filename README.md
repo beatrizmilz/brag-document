@@ -32,6 +32,7 @@ Inspirado no [template feito pela Julia Evans](https://jvns.ca/blog/brag-documen
 
 - [Janeiro-Fevereiro/2024] - [Relatórios reprodutíveis com R - Curso de Verão IME/USP](https://beatrizmilz.github.io/2024-curso-de-verao-ime-usp-relatorios/)
 - [Janeiro-Fevereiro/2024] - [R para Ciência de Dados I - Curso-R](https://curso-r.github.io/202401-r4ds-1/)
+- [Março-Abril/2024] - [Visualização de dados - Curso-R](https://curso-r.github.io/202403-visualizacao/)
 
 
 ### Palestras oferecidas
@@ -49,38 +50,14 @@ Inspirado no [template feito pela Julia Evans](https://jvns.ca/blog/brag-documen
 
 - [06/01/2024] - Co-organização da reunião de planejamento de 2024 da R-Ladies São Paulo
 - [20/02/2024] - Co-organização do evento online da R-Ladies São Paulo: [Ornitorrinco vs. Unicórnio: qual a diferença entre generalistas e especialistas em Data & Analytics](https://www.youtube.com/watch?v=8QD7PXg5YYY)
-- [27/02/2024] - Co-organização do evento online da R-Ladies São Paulo: [Encontro 1: Boas-vindas! Clube do Livro R for Data Science (2ed)](https://www.youtube.com/watch?v=TaAog3K0toA)
+
 - [02/03/2024] - Co-organização do evento presencial da R-Ladies São Paulo: [Análise de dados abertos com R - 2024 - Um evento Open Data Day](https://r-ladies-sao-paulo.github.io/2024-03-open-data-day/cronograma.html)
 
 
-### Conteúdo técnico em redes sociais 
-
-#### R
-
-- [13/01/2024] - [O que é o R?](https://www.instagram.com/p/C2DDu-MLZ4W/?img_index=1)
-- [15/01/2024] - [O que é o RStudio?](https://www.instagram.com/p/C2IJPYqLjIe/?img_index=1)
-- [21/01/2024] - [Versões gratuitas do RStudio IDE](https://www.instagram.com/p/C2Xh63gLWIM/?img_index=1)
-- [24/01/2024] - [O que é o tidyverse?](https://www.instagram.com/p/C2fQI7FrlC2/?img_index=1)
-
-#### Dados abertos
-
-- [03/01/2024] - [O que são dados abertos?](https://www.instagram.com/p/C1o5RR3rsww/?img_index=1)
-- [11/01/2024] - [O que é o dia dos dados abertos?](https://www.instagram.com/p/C197Ln9LEes/?img_index=1)
-
-<!---
-### Projetos
-
-- Lembrar de escrever para cada projeto: quais foram minhas contribuições? Qual é o impacto do projeto?
-
-
-### Vídeos
-
-...
-
-### Colaboração e mentoria
-
-...
---->
+- Co-organização de encontros do [Clube do Livro R for Data Science (2ed)](https://docs.google.com/document/d/1xCn5gxK47tj9lRpDovwGNlza9i1FX2VBixo1V7VtUUs/edit?usp=sharing):
+  - [27/02/2024] - Encontro 1
+  - [02/04/2024] - Encontro 2
+  - [22/04/2024] - Encontro 3
 
 ### Outros
 
@@ -113,27 +90,15 @@ Os livros lidos estão com [x]; os livros começados (em andamento) estão apena
 - [x] [Março/2024] Duna (Crônicas de Duna Livro 1)  - Frank Herbert
 - [x] [Março/2024] A vida não é útil - Ailton Krenak
 - [x] [Abril/2024] Messias de Duna (Crônicas de Duna Livro 2) - Frank Herbert
+- [x] [Abril/2024] Nós Matamos o Cão Tinhoso! - Luís Bernardo Honwana
+- [x] [Abril/2024] Filhos de Duna (Crônicas de Duna Livro 3) - Frank Herbert
+
 
 - [ ] [Fevereiro/2024 - ??] Estatística: O que é, para que serve, como funciona [Lendo no Kindle - Em pausa]
 - [ ] [Fevereiro/2024 - ??] Think Again: The Power of Knowing What You Don't Know -  Adam Grant [Em papel]
 - [ ] [Fevereiro/2024 - ??] Análise de conteúdo - Laurence Bardin [Em papel - em pausa]
-- [ ] [Abril/2024 - ??] Filhos de Duna (Crônicas de Duna Livro 3) - Frank Herbert
-
-<!---
-### Experiências
-
-...
---->
+- [ ] [Abril/2024 - ??] Imperador Deus de Duna (Crônicas de Duna Livro 4) - Frank Herbert
 
 ### Redes/Conexões
 
 - [23/01/2024] Fui contemplada com uma sessão de mentoria 1:1 com a [Gabriela de Queiroz](https://www.linkedin.com/in/gabrieladequeiroz/), fundadora da R-Ladies. Foi incrível! 💜
-
-
-
-<!---
-## O que eu aprendi nesse ano?
-
-...
-
---->
