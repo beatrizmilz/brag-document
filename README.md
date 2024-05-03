@@ -15,13 +15,6 @@ Inspirado no [template feito pela Julia Evans](https://jvns.ca/blog/brag-documen
 
 - [ ] Finalizar a preparação do conteúdo "Eu, palestrando?" (palestra com dicas para pessoas que querem palestrar sobre tecnologia)
 
-- [ ] Melhorar minhas habilidades em:
-    - [ ] Python para Ciência de Dados (no meu dia-a-dia acabo usando mais R!) [Isso não tá bom: não é possível medir do jeito que está. Pensar melhor nisso!]
-    - [ ] SQL (eu uso banco de dados, mas o dbplyr me ajuda bastante!)  [Isso não tá bom: não é possível medir do jeito que está. Pensar melhor nisso!]
-    - [ ] Estatística inferencial [Isso não tá bom: não é possível medir do jeito que está. Pensar melhor nisso!]
-
-
-
 ## Metas para o ano seguinte (2025)
 
 👀 muito cedo para isso, ainda estou tentando entender as metas para este ano!
@@ -39,12 +32,14 @@ Inspirado no [template feito pela Julia Evans](https://jvns.ca/blog/brag-documen
 
 - [20/01/2024] - [Conhecendo o GitHub Projects](https://beamilz.com/talks/pt/2024-01-github-projects/) - GitHub Community São Paulo
 - [02/03/2024] - [O que são dados abertos? O que é o Open Data Day?](https://r-ladies-sao-paulo.github.io/2024-03-open-data-day/slide-open-data-day.html#/title-slide) - [R-Ladies São Paulo](https://r-ladies-sao-paulo.github.io/2024-03-open-data-day/cronograma.html)
+- [02/05/2024] - [Actions to increase diversity in the R-Ladies community - São Paulo](https://beamilz.com/talks/en/2024-05-rladies-melbourne/) - [R-Ladies Melbourne](https://www.meetup.com/rladies-melbourne/events/300561897/)
 
 
 ### Blog posts/textos escritos
 
 - [13/02/2024] - [🇧🇷 Por que era importante para mim participar de um evento sobre Ciência de Dados Ambientais?](https://beamilz.com/posts/2024-02-13-eds-summit-pt-1/pt/)
 - [13/02/2024] - [🇺🇸 Why was so important for me to participate in an event about Environmental Data Science?](https://beamilz.com/posts/2024-02-13-eds-summit-pt-1/en/)
+- [21/04/2024] - [Tutorial: Criando uma pirâmide etária com dados do Censo 2022, usando o R e o pacote ggplot2](https://beamilz.com/posts/2024-04-21-piramide-ggplot2/pt/)
 
 ### Organização de eventos/encontros/grupos de estudos
 
@@ -97,8 +92,15 @@ Os livros lidos estão com [x]; os livros começados (em andamento) estão apena
 - [ ] [Fevereiro/2024 - ??] Estatística: O que é, para que serve, como funciona [Lendo no Kindle - Em pausa]
 - [ ] [Fevereiro/2024 - ??] Think Again: The Power of Knowing What You Don't Know -  Adam Grant [Em papel]
 - [ ] [Fevereiro/2024 - ??] Análise de conteúdo - Laurence Bardin [Em papel - em pausa]
-- [ ] [Abril/2024 - ??] Imperador Deus de Duna (Crônicas de Duna Livro 4) - Frank Herbert
+- [ ] [Abril/2024 - Maio/2024] Imperador Deus de Duna (Crônicas de Duna Livro 4) - Frank Herbert
 
 ### Redes/Conexões
 
 - [23/01/2024] Fui contemplada com uma sessão de mentoria 1:1 com a [Gabriela de Queiroz](https://www.linkedin.com/in/gabrieladequeiroz/), fundadora da R-Ladies. Foi incrível! 💜
+
+
+## Atividades acadêmicas
+
+- Adicionar pareceres, revisões.
+
+- [ZooTraits: An R shiny app for exploring animal trait data for ecological and evolutionary research](https://onlinelibrary.wiley.com/doi/10.1002/ece3.11334) - Ecology and Evolution
