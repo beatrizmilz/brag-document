@@ -81,18 +81,21 @@ Os livros lidos estão com [x]; os livros começados (em andamento) estão apena
 - [x] [Janeiro/2024] Lifelong learners – o poder do aprendizado contínuo - Conrado Schlochauer
 - [x] [Janeiro/2024 - Fevereiro/2024] O andar do bêbado: Como o acaso determina nossas vidas - Leonard Mlodinow 
 - [x] [Janeiro/2024 - Fevereiro/2024] Como se faz uma tese -  Umberto Eco
-- [x] [Março/2024] Essencialismo - Greg McKeown [Lendo em papel]
+- [x] [Março/2024] Essencialismo - Greg McKeown 
 - [x] [Março/2024] Duna (Crônicas de Duna Livro 1)  - Frank Herbert
 - [x] [Março/2024] A vida não é útil - Ailton Krenak
 - [x] [Abril/2024] Messias de Duna (Crônicas de Duna Livro 2) - Frank Herbert
 - [x] [Abril/2024] Nós Matamos o Cão Tinhoso! - Luís Bernardo Honwana
 - [x] [Abril/2024] Filhos de Duna (Crônicas de Duna Livro 3) - Frank Herbert
+- [x] [Abril/2024 - Maio/2024] Imperador Deus de Duna (Crônicas de Duna Livro 4) - Frank Herbert
+- [ ] [Maio/2024 - ?] Hereges de Duna (Crônicas de Duna Livro 5) - Frank Herbert
+- [ ] [Maio/2024 - ?] Uma outra ciência é possível: Manifesto por uma desaceleração das ciências - Isabelle Stengers
 
+Livros em pausa: Iniciados mas ainda não completos
+- [ ] [Fevereiro/2024 - ??] Estatística: O que é, para que serve, como funciona 
+- [ ] [Fevereiro/2024 - ??] Think Again: The Power of Knowing What You Don't Know -  Adam Grant
+- [ ] [Fevereiro/2024 - ??] Análise de conteúdo - Laurence Bardin
 
-- [ ] [Fevereiro/2024 - ??] Estatística: O que é, para que serve, como funciona [Lendo no Kindle - Em pausa]
-- [ ] [Fevereiro/2024 - ??] Think Again: The Power of Knowing What You Don't Know -  Adam Grant [Em papel]
-- [ ] [Fevereiro/2024 - ??] Análise de conteúdo - Laurence Bardin [Em papel - em pausa]
-- [ ] [Abril/2024 - Maio/2024] Imperador Deus de Duna (Crônicas de Duna Livro 4) - Frank Herbert
 
 ### Redes/Conexões
 
