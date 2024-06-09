@@ -4,10 +4,10 @@ Inspirado no [template feito pela Julia Evans](https://jvns.ca/blog/brag-documen
 
 ## Metas para o ano
 
-- [ ] Concluir o doutorado
+- [x] Concluir o doutorado
   - [x] Depositar o doutorado
   - [x] Defender o doutorado
-  - [ ] Entregar a versão corrigida da tese
+  - [x] Entregar a versão corrigida da tese
 
 - [x] Obter a certificação "GitHub Foundations"
 
@@ -26,6 +26,7 @@ Inspirado no [template feito pela Julia Evans](https://jvns.ca/blog/brag-documen
 - [Janeiro-Fevereiro/2024] - [Relatórios reprodutíveis com R - Curso de Verão IME/USP](https://beatrizmilz.github.io/2024-curso-de-verao-ime-usp-relatorios/)
 - [Janeiro-Fevereiro/2024] - [R para Ciência de Dados I - Curso-R](https://curso-r.github.io/202401-r4ds-1/)
 - [Março-Abril/2024] - [Visualização de dados - Curso-R](https://curso-r.github.io/202403-visualizacao/)
+- [Maio-Junho/2024] - [Relatórios e apresentações automáticas - Curso-R](https://curso-r.github.io/202405-relatorios/)
 
 
 ### Palestras oferecidas
@@ -63,6 +64,7 @@ Inspirado no [template feito pela Julia Evans](https://jvns.ca/blog/brag-documen
 ### Eventos que participei
 
 - [x] [Fevereiro/2024] [Environmental Data Science Summit](https://eds-summit.github.io/) - UCSB & NCEAS, Santa Barbara - CA, EUA
+- [x] [Maio/2024] [68ª RBras - Reunião Anual da Região Brasileira da Sociedade Internacional de Biometria](https://68rbras.com.br/) - Piracicaba, SP, Brasil
 
 ### Cursos realizados
 
@@ -76,25 +78,7 @@ Inspirado no [template feito pela Julia Evans](https://jvns.ca/blog/brag-documen
 
 ### Leitura - Livros 
 
-Os livros lidos estão com [x]; os livros começados (em andamento) estão apenas listados.
-
-- [x] [Janeiro/2024] Lifelong learners – o poder do aprendizado contínuo - Conrado Schlochauer
-- [x] [Janeiro/2024 - Fevereiro/2024] O andar do bêbado: Como o acaso determina nossas vidas - Leonard Mlodinow 
-- [x] [Janeiro/2024 - Fevereiro/2024] Como se faz uma tese -  Umberto Eco
-- [x] [Março/2024] Essencialismo - Greg McKeown 
-- [x] [Março/2024] Duna (Crônicas de Duna Livro 1)  - Frank Herbert
-- [x] [Março/2024] A vida não é útil - Ailton Krenak
-- [x] [Abril/2024] Messias de Duna (Crônicas de Duna Livro 2) - Frank Herbert
-- [x] [Abril/2024] Nós Matamos o Cão Tinhoso! - Luís Bernardo Honwana
-- [x] [Abril/2024] Filhos de Duna (Crônicas de Duna Livro 3) - Frank Herbert
-- [x] [Abril/2024 - Maio/2024] Imperador Deus de Duna (Crônicas de Duna Livro 4) - Frank Herbert
-- [ ] [Maio/2024 - ?] Hereges de Duna (Crônicas de Duna Livro 5) - Frank Herbert
-- [ ] [Maio/2024 - ?] Uma outra ciência é possível: Manifesto por uma desaceleração das ciências - Isabelle Stengers
-
-Livros em pausa: Iniciados mas ainda não completos
-- [ ] [Fevereiro/2024 - ??] Estatística: O que é, para que serve, como funciona 
-- [ ] [Fevereiro/2024 - ??] Think Again: The Power of Knowing What You Don't Know -  Adam Grant
-- [ ] [Fevereiro/2024 - ??] Análise de conteúdo - Laurence Bardin
+Estou registrando no Skoob: <https://www.skoob.com.br/usuario/10490743-beatrizmilz>
 
 
 ### Redes/Conexões
